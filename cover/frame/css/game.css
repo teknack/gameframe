@@ -10,7 +10,7 @@
 body {
     overflow: hidden;
     color: white;
-    background: url('');
+    background: url('../img/coverbg.jpg');
     font-family: 'Lato', sans-serif;
     padding: 0px !important;
     margin: 0px !important;
