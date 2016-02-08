@@ -17,6 +17,6 @@ Two different folders one for the frame and the other for your game
 
 The `CSS` file you'll should be editing is the `game.css`. You can
 
-*Choose alignment of the frame
-*Change background image ( Do change the original background )
-*Choose from 7 preloaders or add your own looping `gif`
+* Choose alignment of the frame
+* Change background image ( Do change the original background )
+* Choose from 7 preloaders or add your own looping `gif`
